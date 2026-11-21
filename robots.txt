@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruraam.github.io/BubbleOS-Dashboard/sitemap.xml
